@@ -26,8 +26,8 @@
 
     <!-- flash cards -->
 
-    <section v-if="currentView === 'flashcard'">
-      <div>Flash cards</div>
+    <section v-if="currentView === 'flashcard'" class="px-4">
+      <FlashCard :words="currentWeekWords" />
     </section>
 
     <!-- vocab test -->
@@ -42,7 +42,8 @@
 import { ref, computed, onMounted } from "vue";
 import NavBar from "@/components/NavBar.vue";
 import WordCard from "@/components/WordCard.vue";
-import PresentCard from "./components/PresentCard.vue";
+import PresentCard from "@/components/PresentCard.vue";
+import FlashCard from "@/components/flashCard.vue";
 
 //const vocabData = await import("@/assets/vocabulary.json");
 let vocabData = ref(null);
@@ -68,9 +69,8 @@ const handleViewChange = (newView) => {
 };
 
 const handleWeekChange = (newWeek) => {
-  // Here you'll handle what happens when the week changes in the app
+  // handle what happens when the week changes in the app
   currentWeek.value = newWeek;
-  // Update your application state, fetch new vocabulary, etc.
 };
 
 const nextWord = () => {
