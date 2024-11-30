@@ -4,6 +4,917 @@
       "weekNumber": 1,
       "words": [
         {
+          "word": "Ironic",
+          "definition": "characterized by irony; happening in the opposite way to what is expected",
+          "sentence": "It was ironic that the fire station burned down."
+        },
+        {
+          "word": "Astute",
+          "definition": "having or showing an ability to accurately assess situations or people",
+          "sentence": "His astute investment in the startup proved profitable."
+        },
+        {
+          "word": "Sycophant",
+          "definition": "a person who acts obsequiously toward someone important in order to gain advantage",
+          "sentence": "The CEO was surrounded by sycophants who never criticized his decisions."
+        },
+        {
+          "word": "Extol",
+          "definition": "praise enthusiastically",
+          "sentence": "The mayor extolled the community's efforts in city beautification."
+        },
+        {
+          "word": "Anarchist",
+          "definition": "a person who believes in or tries to bring about anarchy",
+          "sentence": "The anarchist advocated for a society without government."
+        },
+        {
+          "word": "Peripheral",
+          "definition": "relating to or situated on the edge or periphery of something",
+          "sentence": "The new mall was built in a peripheral area of the city."
+        }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "words": [
+        {
+          "word": "Eulogy",
+          "definition": "a speech or piece of writing that praises someone or something highly, typically someone who has just died",
+          "sentence": "At the memorial, his brother gave a heartfelt eulogy."
+        },
+        {
+          "word": "Compliance",
+          "definition": "the act or process of doing what you have been asked or ordered to do",
+          "sentence": "The company was fined for non-compliance with safety regulations."
+        },
+        {
+          "word": "Fanaticism",
+          "definition": "excessive, irrational zeal",
+          "sentence": "His fanaticism for the cause made him overlook practical considerations."
+        },
+        {
+          "word": "Disdain",
+          "definition": "the feeling that someone or something is unworthy of one's consideration or respect",
+          "sentence": "She looked at the cheap imitation with disdain."
+        },
+        {
+          "word": "Philanthropist",
+          "definition": "a person who seeks to promote the welfare of others, especially by the generous donation of money to good causes",
+          "sentence": "The philanthropist donated a significant sum to rebuild the local school."
+        },
+        {
+          "word": "Deterrent",
+          "definition": "a thing that discourages or is intended to discourage someone from doing something",
+          "sentence": "The high fines were meant to act as a deterrent to littering."
+        }
+      ]
+    },
+    {
+      "weekNumber": 3,
+      "words": [
+        {
+          "word": "Euphemism",
+          "definition": "a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing",
+          "sentence": "He used the euphemism 'passed away' instead of saying 'died'."
+        },
+        {
+          "word": "Exonerate",
+          "definition": "to absolve someone from blame for a fault or wrongdoing",
+          "sentence": "New evidence came to light that exonerated the accused."
+        },
+        {
+          "word": "Censure",
+          "definition": "formal disapproval, especially when voted by a public body",
+          "sentence": "The senator faced censure from his colleagues for his unethical behavior."
+        },
+        {
+          "word": "Dogmatic",
+          "definition": "inclined to lay down principles as undeniably true",
+          "sentence": "He was so dogmatic about his theories that he dismissed all opposing views."
+        },
+        {
+          "word": "Adversary",
+          "definition": "one's opponent in a contest, conflict, or dispute",
+          "sentence": "In the courtroom, the defense attorney faced a formidable adversary."
+        },
+        {
+          "word": "Exhaustive",
+          "definition": "including all elements or aspects; fully comprehensive",
+          "sentence": "The team conducted an exhaustive search for the missing documents."
+        }
+      ]
+    },
+    {
+      "weekNumber": 4,
+      "words": [
+        {
+          "word": "Distend",
+          "definition": "swell or cause to swell by pressure from within",
+          "sentence": "His stomach distended after eating the large meal."
+        },
+        {
+          "word": "Sanction",
+          "definition": "a threatened penalty for disobeying a law or rule",
+          "sentence": "The international community imposed sanctions to enforce compliance."
+        },
+        {
+          "word": "Laconic",
+          "definition": "using very few words",
+          "sentence": "His laconic reply was simply, 'Done.'"
+        },
+        {
+          "word": "Inane",
+          "definition": "lacking sense or meaning; silly",
+          "sentence": "The inane chatter of the reality show bored him."
+        },
+        {
+          "word": "Ambiguous",
+          "definition": "open to more than one interpretation; not having one obvious meaning",
+          "sentence": "The ambiguous ending of the movie left everyone debating."
+        },
+        {
+          "word": "Vacillate",
+          "definition": "alternate or waver between different opinions or courses of action",
+          "sentence": "She vacillated for weeks before deciding on a major."
+        }
+      ]
+    },
+    {
+      "weekNumber": 5,
+      "words": [
+        {
+          "word": "Renounce",
+          "definition": "formally declare one's abandonment of (a claim, right, or possession)",
+          "sentence": "He renounced his citizenship to live abroad."
+        },
+        {
+          "word": "Expedient",
+          "definition": "convenient and practical although possibly improper or immoral",
+          "sentence": "It was expedient to overlook his minor faults for the greater good."
+        },
+        {
+          "word": "Indelible",
+          "definition": "not able to be forgotten or removed",
+          "sentence": "The experience made an indelible impression on her memory."
+        },
+        {
+          "word": "Emulate",
+          "definition": "match or surpass (a person or achievement), typically by imitation",
+          "sentence": "Young athletes often try to emulate their sports heroes."
+        },
+        {
+          "word": "Elusive",
+          "definition": "difficult to find, catch, or achieve",
+          "sentence": "The solution to the puzzle remained elusive."
+        },
+        {
+          "word": "Advocate",
+          "definition": "a person who publicly supports or recommends a particular cause or policy",
+          "sentence": "She was a strong advocate for environmental conservation."
+        }
+      ]
+    },
+    {
+      "weekNumber": 6,
+      "words": [
+        {
+          "word": "Preclude",
+          "definition": "prevent from happening; make impossible",
+          "sentence": "His schedule precluded any chance of attending the event."
+        },
+        {
+          "word": "Brevity",
+          "definition": "concise and exact use of words in writing or speech",
+          "sentence": "Brevity in his instructions was appreciated during the crisis."
+        },
+        {
+          "word": "Levity",
+          "definition": "humor or frivolousness, especially in the treatment of a serious matter",
+          "sentence": "His levity at the funeral was considered inappropriate."
+        },
+        {
+          "word": "Innate",
+          "definition": "inborn; natural",
+          "sentence": "Her innate ability to connect with people made her an excellent diplomat."
+        },
+        {
+          "word": "Apocryphal",
+          "definition": "of doubtful authenticity, although widely circulated as being true",
+          "sentence": "The story about the founder's early life turned out to be apocryphal."
+        },
+        {
+          "word": "Incontrovertible",
+          "definition": "not able to be denied or disputed",
+          "sentence": "The evidence against him was incontrovertible."
+        }
+      ]
+    },
+    {
+      "weekNumber": 7,
+      "words": [
+        {
+          "word": "Credulity",
+          "definition": "a tendency to be too ready to believe that something is real or true",
+          "sentence": "His credulity made him fall for the scam."
+        },
+        {
+          "word": "Corroborate",
+          "definition": "confirm or give support to (a statement, theory, or finding)",
+          "sentence": "Witnesses corroborated the victim's account of the event."
+        },
+        {
+          "word": "Gregarious",
+          "definition": "fond of company; sociable",
+          "sentence": "She was gregarious and enjoyed meeting new people at parties."
+        },
+        {
+          "word": "Stagnant",
+          "definition": "(of a body of water or the atmosphere of a confined space) having no current or flow and often having an unpleasant smell as a consequence",
+          "sentence": "The stagnant pond was covered in green algae."
+        },
+        {
+          "word": "Incidental",
+          "definition": "happening as a minor accompaniment to something else",
+          "sentence": "The incidental expenses of the trip included snacks and souvenirs."
+        },
+        {
+          "word": "Pervasive",
+          "definition": "spreading widely throughout an area or a group of people",
+          "sentence": "The pervasive influence of technology is undeniable."
+        }
+      ]
+    },
+    {
+      "weekNumber": 8,
+      "words": [
+        {
+          "word": "Inception",
+          "definition": "the establishment or starting point of an institution or activity",
+          "sentence": "From its inception, the charity aimed to help homeless youth."
+        },
+        {
+          "word": "Recluse",
+          "definition": "a person who lives a solitary life and tends to avoid other people",
+          "sentence": "After the scandal, he chose to live as a recluse."
+        },
+        {
+          "word": "Incongruous",
+          "definition": "not in harmony or keeping with the surroundings or other aspects of something",
+          "sentence": "The modern sculpture looked incongruous among the classical statues."
+        },
+        {
+          "word": "Quandary",
+          "definition": "a state of perplexity or uncertainty over what to do in a difficult situation",
+          "sentence": "She was in a quandary over whether to accept the job offer."
+        },
+        {
+          "word": "Florid",
+          "definition": "having a red or flushed complexion",
+          "sentence": "His face became florid after running up the stairs."
+        },
+        {
+          "word": "Cryptic",
+          "definition": "having a meaning that is mysterious or obscure",
+          "sentence": "He left a cryptic note on the table before he disappeared."
+        }
+      ]
+    },
+    {
+      "weekNumber": 9,
+      "words": [
+        {
+          "word": "Rebuff",
+          "definition": "reject (someone or something) in an abrupt or ungracious manner",
+          "sentence": "She rebuffed his advances with a sharp comment."
+        },
+        {
+          "word": "Prolific",
+          "definition": "producing much fruit or foliage or many offspring",
+          "sentence": "The prolific writer published over 50 novels in his lifetime."
+        },
+        {
+          "word": "Meticulous",
+          "definition": "showing great attention to detail; very careful and precise",
+          "sentence": "Her meticulous planning ensured the event went off without a hitch."
+        },
+        {
+          "word": "Coercion",
+          "definition": "the practice of persuading someone to do something by using force or threats",
+          "sentence": "The confession was later dismissed due to claims of coercion."
+        },
+        {
+          "word": "Delineate",
+          "definition": "describe or portray (something) precisely",
+          "sentence": "The map clearly delineates the boundaries of the national park."
+        },
+        {
+          "word": "Depose",
+          "definition": "remove from office suddenly and forcefully",
+          "sentence": "The military staged a coup to depose the corrupt leader."
+        }
+      ]
+    },
+    {
+      "weekNumber": 10,
+      "words": [
+        {
+          "word": "Virulent",
+          "definition": "bitterly hostile",
+          "sentence": "The debate turned virulent when personal insults were thrown."
+        },
+        {
+          "word": "Obdurate",
+          "definition": "stubbornly refusing to change one's opinion or course of action",
+          "sentence": "Despite the evidence, he remained obdurate in his beliefs."
+        },
+        {
+          "word": "Miserly",
+          "definition": "of or characteristic of a miser, especially in being stingy with money",
+          "sentence": "His miserly habits meant he never spent on anything unnecessary."
+        },
+        {
+          "word": "Disperse",
+          "definition": "distribute or spread over a wide area",
+          "sentence": "After the rally, the crowd began to disperse in different directions."
+        },
+        {
+          "word": "Mundane",
+          "definition": "lacking interest or excitement; dull",
+          "sentence": "He longed for adventure, tired of the mundane routine."
+        },
+        {
+          "word": "Mitigate",
+          "definition": "make (something bad) less severe, serious, or painful",
+          "sentence": "Efforts were made to mitigate the effects of the oil spill on wildlife."
+        }
+      ]
+    },
+    {
+      "weekNumber": 11,
+      "words": [
+        {
+          "word": "Eulogy",
+          "definition": "a speech or piece of writing that praises someone or something highly, typically someone who has just died",
+          "sentence": "At the memorial, his brother gave a heartfelt eulogy."
+        },
+        {
+          "word": "Compliance",
+          "definition": "the act or process of doing what you have been asked or ordered to do",
+          "sentence": "The company was fined for non-compliance with safety regulations."
+        },
+        {
+          "word": "Fanaticism",
+          "definition": "excessive, irrational zeal",
+          "sentence": "His fanaticism for the cause made him overlook practical considerations."
+        },
+        {
+          "word": "Disdain",
+          "definition": "the feeling that someone or something is unworthy of one's consideration or respect",
+          "sentence": "She looked at the cheap imitation with disdain."
+        },
+        {
+          "word": "Philanthropist",
+          "definition": "a person who seeks to promote the welfare of others, especially by the generous donation of money to good causes",
+          "sentence": "The philanthropist donated a significant sum to rebuild the local school."
+        },
+        {
+          "word": "Deterrent",
+          "definition": "a thing that discourages or is intended to discourage someone from doing something",
+          "sentence": "The high fines were meant to act as a deterrent to littering."
+        }
+      ]
+    },
+    {
+      "weekNumber": 12,
+      "words": [
+        {
+          "word": "Apathy",
+          "definition": "Some teachers consider student apathy to be the number one problem with schools.",
+          "sentence": "Student apathy towards education has become a significant concern for educators."
+        },
+        {
+          "word": "Deprecate",
+          "definition": "A firm believer in old-fashioned courtesy, Miss Post deprecated the modern tendency to address new acquaintances by their first names.",
+          "sentence": "Miss Post deprecated the casualness of addressing elders by their first names, favoring traditional etiquette."
+        },
+        {
+          "word": "Cryptocurrency",
+          "definition": "a digital currency in which transactions are verified and records maintained by a decentralized system using cryptography, rather than by a centralized authority",
+          "sentence": "Bitcoin is the most well-known cryptocurrency."
+        },
+        {
+          "word": "Neurotransmitter",
+          "definition": "a chemical substance which is released at the end of a nerve fiber by the arrival of a nerve impulse and, by diffusing across the synapse or junction, effects the transfer of the impulse to another nerve fiber",
+          "sentence": "Dopamine is a neurotransmitter that plays several important roles in the brain and body."
+        },
+        {
+          "word": "Equity",
+          "definition": "the value of the shares issued by a company",
+          "sentence": "Investors are interested in the equity value of the startup for potential returns."
+        },
+        {
+          "word": "Pathogen",
+          "definition": "a bacterium, virus, or other microorganism that can cause disease",
+          "sentence": "Sanitizing surfaces can help reduce the spread of pathogens."
+        }
+      ]
+    },
+    {
+      "weekNumber": 13,
+      "words": [
+        {
+          "word": "Algorithm",
+          "definition": "a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer",
+          "sentence": "The algorithm used by the search engine sorts results based on relevance."
+        },
+        {
+          "word": "Mitosis",
+          "definition": "a type of cell division that results in two daughter cells each having the same number and kind of chromosomes as the parent nucleus",
+          "sentence": "During mitosis, the nucleus of the cell divides into two nuclei containing the same number of chromosomes."
+        },
+        {
+          "word": "Explicit",
+          "definition": "Don't just hint around that you're dissatisfied. Be explicit about what's bothering you.",
+          "sentence": "During the meeting, he was explicit about his dissatisfaction with the project's progress."
+        },
+        {
+          "word": "Cajole",
+          "definition": "Diane tried to cajole her father into letting her have the car tonight.",
+          "sentence": "Diane attempted to cajole her father into lending her the car for the evening with promises of good behavior."
+        },
+        {
+          "word": "Fiscal",
+          "definition": "of or relating to government revenue, especially taxes",
+          "sentence": "The government is reviewing its fiscal policy to increase revenue."
+        },
+        {
+          "word": "Biodegradable",
+          "definition": "capable of being broken down by the action of living organisms",
+          "sentence": "Biodegradable plastics are being developed to reduce environmental impact."
+        }
+      ]
+    },
+    {
+      "weekNumber": 14,
+      "words": [
+        {
+          "word": "Paradigm",
+          "definition": "a typical example or pattern of something; a model",
+          "sentence": "The shift to renewable energy sources represents a new paradigm in energy production."
+        },
+        {
+          "word": "Virology",
+          "definition": "the branch of science that deals with the study of viruses",
+          "sentence": "Virology has been at the forefront of research during pandemics."
+        },
+        {
+          "word": "Dividend",
+          "definition": "a sum of money paid regularly by a company to its shareholders out of its profits (or reserves)",
+          "sentence": "The company declared a quarterly dividend of $0.50 per share."
+        },
+        {
+          "word": "Sustainability",
+          "definition": "avoidance of the depletion of natural resources in order to maintain an ecological balance",
+          "sentence": "Sustainability is key in modern urban planning."
+        },
+        {
+          "word": "Cardiovascular",
+          "definition": "relating to the circulatory system, which comprises the heart and blood vessels",
+          "sentence": "Cardiovascular health is crucial for longevity."
+        },
+        {
+          "word": "Blockchain",
+          "definition": "a system in which records of transactions are maintained across several computers that are linked in a peer-to-peer network",
+          "sentence": "Blockchain technology provides a high level of security for transactions."
+        }
+      ]
+    },
+    {
+      "weekNumber": 15,
+      "words": [
+        {
+          "word": "Hypothesis",
+          "definition": "a proposed explanation made on the basis of limited evidence as a starting point for further investigation",
+          "sentence": "Her hypothesis was that sugar intake directly influences hyperactivity in children."
+        },
+        {
+          "word": "Liquidity",
+          "definition": "the availability of liquid assets to a market or company",
+          "sentence": "The company's liquidity was questioned by investors after a series of poor financial decisions."
+        },
+        {
+          "word": "Neuroplasticity",
+          "definition": "the ability of the brain to form and reorganize synaptic connections, especially in response to learning or experience or following injury",
+          "sentence": "Neuroplasticity explains why stroke survivors can often regain functions."
+        },
+        {
+          "word": "Patent",
+          "definition": "a government authority or license conferring a right or title for a set period, especially the sole right to exclude others from making, using, or selling an invention",
+          "sentence": "The inventor filed for a patent to protect his innovative design."
+        },
+        {
+          "word": "Ecology",
+          "definition": "the branch of biology that deals with the relations of organisms to one another and to their physical surroundings",
+          "sentence": "Ecology studies how ecosystems work and the relationships within them."
+        },
+        {
+          "word": "Inflation",
+          "definition": "a general increase in prices and fall in the purchasing value of money",
+          "sentence": "Inflation is often measured by the Consumer Price Index (CPI)."
+        }
+      ]
+    },
+    {
+      "weekNumber": 16,
+      "words": [
+        {
+          "word": "Empirical",
+          "definition": "based on, concerned with, or verifiable by observation or experience rather than theory or pure logic",
+          "sentence": "The study used empirical data to support its findings."
+        },
+        {
+          "word": "Anomaly",
+          "definition": "something that deviates from what is standard, normal, or expected",
+          "sentence": "The unexpected results were initially considered an anomaly."
+        },
+        {
+          "word": "Biopsy",
+          "definition": "an examination of tissue removed from a living body to discover the presence, cause, or extent of a disease",
+          "sentence": "A biopsy confirmed the presence of malignant cells."
+        },
+        {
+          "word": "Yield",
+          "definition": "the income returned on an investment, such as the interest or dividends received from holding a particular security",
+          "sentence": "The bond's yield has increased due to the rise in interest rates."
+        },
+        {
+          "word": "Symbiosis",
+          "definition": "interaction between two different organisms living in close physical association, typically to the advantage of both",
+          "sentence": "The relationship between the clownfish and sea anemones is a classic example of symbiosis."
+        },
+        {
+          "word": "Algorithm",
+          "definition": "a step-by-step procedure for calculations, data processing, and automated reasoning",
+          "sentence": "Sorting algorithms help arrange data in a specific order efficiently."
+        }
+      ]
+    },
+    {
+      "weekNumber": 17,
+      "words": [
+        {
+          "word": "Entropy",
+          "definition": "a measure of the disorder or randomness in a closed system",
+          "sentence": "The second law of thermodynamics states that the total entropy of an isolated system cannot decrease over time."
+        },
+        {
+          "word": "Hedging",
+          "definition": "making an investment to reduce the risk of adverse price movements in an asset",
+          "sentence": "Farmers often use futures markets for hedging against price drops in crops."
+        },
+        {
+          "word": "Genetics",
+          "definition": "the study of heredity and the variation of inherited characteristics",
+          "sentence": "Genetics has revolutionized our understanding of diseases at the molecular level."
+        },
+        {
+          "word": "Subprime",
+          "definition": "of or relating to a loan or credit of a type granted to borrowers perceived as having a higher-than-average risk of default",
+          "sentence": "The financial crisis was partly due to the collapse of the subprime mortgage market."
+        },
+        {
+          "word": "Photosynthesis",
+          "definition": "the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "sentence": "Photosynthesis is crucial for the survival of plants and the production of oxygen."
+        },
+        {
+          "word": "Regulatory",
+          "definition": "relating to or having the function of regulation",
+          "sentence": "The new regulatory measures aim to ensure fair competition in the market."
+        }
+      ]
+    },
+    {
+      "weekNumber": 18,
+      "words": [
+        {
+          "word": "indolent",
+          "definition": "wanting to avoid activity or exertion; lazy",
+          "sentence": "Couch potatoes lead an indolent life."
+        },
+        {
+          "word": "gravity",
+          "definition": "extreme or alarming importance; seriousness",
+          "sentence": "We could tell we were in serious trouble from the gravity of the principal's expression."
+        },
+
+        {
+          "word": "Oncology",
+          "definition": "the branch of medicine that deals with the prevention, diagnosis, and treatment of cancer",
+          "sentence": "He specializes in pediatric oncology, focusing on childhood cancers."
+        },
+        {
+          "word": "Paradigm Shift",
+          "definition": "a fundamental change in underlying assumptions or concepts",
+          "sentence": "The discovery of quantum mechanics represented a paradigm shift in physics."
+        },
+        {
+          "word": "Epidemiology",
+          "definition": "the branch of medicine which deals with the incidence, distribution, and possible control of diseases and other factors relating to health",
+          "sentence": "Epidemiology was crucial in tracking and controlling the spread of the virus."
+        },
+        {
+          "word": "Fiat Money",
+          "definition": "currency that a government has declared to be legal tender, but it is not backed by a physical commodity",
+          "sentence": "The value of fiat money is derived from the economic activity and trust in the issuing government rather than any physical asset."
+        }
+      ]
+    },
+    {
+      "weekNumber": 19,
+      "words": [
+        {
+          "word": "Quantum Mechanics",
+          "definition": "the branch of mechanics that deals with the mathematical description of the motion and interaction of subatomic particles",
+          "sentence": "Quantum mechanics has led to advancements in computing, communication, and imaging technologies."
+        },
+        {
+          "word": "arbitrary",
+          "definition": "based on random choice or personal whim",
+          "sentence": "Tom's arbitrary dismissal angered him; his boss had no reason to fire him."
+        },
+        {
+          "word": "Genome Editing",
+          "definition": "a group of technologies that give scientists the ability to change an organism's DNA",
+          "sentence": "CRISPR is one of the tools used in genome editing to correct genetic defects."
+        },
+        {
+          "word": "Solvency",
+          "definition": "the ability of a company to meet its long-term fixed expenses and to accomplish long-term expansion and growth",
+          "sentence": "The solvency of the firm was in question when it could not repay its long-term debts."
+        },
+        {
+          "word": "Immunology",
+          "definition": "the branch of biomedical science that deals with the immune system, its components, functions, and disorders",
+          "sentence": "His research in immunology focuses on vaccine development."
+        },
+        {
+          "word": "Transcription",
+          "definition": "the process by which the information in a strand of DNA is copied into a new molecule of messenger RNA",
+          "sentence": "Transcription is one of the steps in gene expression."
+        }
+      ]
+    },
+    {
+      "weekNumber": 20,
+      "words": [
+        {
+          "word": "Affirmation",
+          "definition": "Lack of parental affirmation can harm a child's emotional development.",
+          "sentence": "The lack of affirmation from her parents left her feeling unvalued throughout her childhood."
+        },
+        {
+          "word": "Instigate",
+          "definition": "Rumors of police corruption led the mayor to instigate an investigation into the department.",
+          "sentence": "The mayor decided to instigate a thorough investigation after hearing about widespread corruption allegations."
+        },
+        {
+          "word": "Quantum",
+          "definition": "a discrete quantity of energy proportional in magnitude to the frequency of the radiation it represents",
+          "sentence": "Quantum computers operate using qubits, which can be in multiple states simultaneously."
+        },
+        {
+          "word": "Biome",
+          "definition": "a large naturally occurring community of flora and fauna occupying a major habitat",
+          "sentence": "The Amazon rainforest is one of the Earth's most significant biomes."
+        },
+        {
+          "word": "Fervor",
+          "definition": "At the protest, the students cheered the strikers with fervor.",
+          "sentence": "The crowd at the rally expressed their support for the workers with great fervor."
+        },
+        {
+          "word": "Banal",
+          "definition": "The hack writer's worn-out cliches made his book seem banal.",
+          "sentence": "His attempt at poetry was dismissed as banal due to the overuse of tired metaphors."
+        }
+      ]
+    },
+    {
+      "weekNumber": 21,
+      "words": [
+        {
+          "word": "Disparity",
+          "definition": "Their disparity in rank made no difference to the prince and Cinderella.",
+          "sentence": "Despite their social disparity, the prince and Cinderella found common ground in their kindness."
+        },
+        {
+          "word": "Terse",
+          "definition": "There is a fine line between speech that is terse and to the point, and speech that is too abrupt.",
+          "sentence": "His response was terse, yet it conveyed everything he needed to say without any fluff."
+        },
+        {
+          "word": "Superfluous",
+          "definition": "Betsy lacked the heart to tell June that the wedding present was superfluous; they had already received five toasters.",
+          "sentence": "Betsy couldn't bring herself to mention that June's gift of another toaster was superfluous."
+        },
+        {
+          "word": "Lampoon",
+          "definition": "This article lampoons the pretensions of some movie actors.",
+          "sentence": "The editorial humorously lampooned the exaggerated lifestyle of Hollywood celebrities."
+        },
+        {
+          "word": "Resplendent",
+          "definition": "All the people commented how glorious the emperor looked in his resplendent new clothes.",
+          "sentence": "The emperor appeared resplendent at the parade, his attire shimmering in the sunlight."
+        },
+        {
+          "word": "Reprehensible",
+          "definition": "Shocked by the viciousness of the bombing, politicians condemned the terrorists' reprehensible deed.",
+          "sentence": "Politicians across the spectrum condemned the act as reprehensible, calling for justice."
+        }
+      ]
+    },
+    {
+      "weekNumber": 22,
+      "words": [
+        {
+          "word": "Indolent",
+          "definition": "Couch potatoes lead an indolent life.",
+          "sentence": "His indolent lifestyle was evident from his reluctance to do any form of physical activity."
+        },
+        {
+          "word": "Gravity",
+          "definition": "We could tell we were in serious trouble from the gravity of the principal's expression.",
+          "sentence": "The gravity of the situation was clear when the principal's face turned stern."
+        },
+        {
+          "word": "Kinetics",
+          "definition": "the branch of physics concerned with the nature of motion, especially of matter moved by forces",
+          "sentence": "The study of chemical kinetics involves the speed of chemical reactions."
+        },
+        {
+          "word": "Leverage",
+          "definition": "the use of borrowed funds for investment, expecting the profits made to be greater than the interest payable",
+          "sentence": "The company decided to take on more leverage to finance its expansion."
+        },
+        {
+          "word": "Debilitate",
+          "definition": "Jim's severe bout of the flu debilitated him so much he couldn't go to school.",
+          "sentence": "The flu had debilitated Jim so severely that he missed a week of school."
+        },
+        {
+          "word": "Arbitrary",
+          "definition": "Tom's arbitrary dismissal angered him; his boss had no reason to fire him.",
+          "sentence": "Tom was outraged by his arbitrary dismissal from work, as there was no apparent reason for his firing."
+        }
+      ]
+    },
+    {
+      "weekNumber": 23,
+      "words": [
+        {
+          "word": "Affirmation",
+          "definition": "Lack of parental affirmation can harm a child's emotional development.",
+          "sentence": "Lack of parental affirmation can harm a child's emotional development."
+        },
+        {
+          "word": "Instigate",
+          "definition": "to bring about or initiate (an action or event)",
+          "sentence": "Rumors of police corruption led the mayor to instigate an investigation into the department."
+        },
+        {
+          "word": "Explicit",
+          "definition": "stated clearly and in detail, leaving no room for confusion or doubt",
+          "sentence": "Don't just hint around that you're dissatisfied. Be explicit about what's bothering you."
+        },
+        {
+          "word": "Cajole",
+          "definition": "persuade (someone) to do something by sustained coaxing or flattery",
+          "sentence": "Diane tried to cajole her father into letting her have the car tonight."
+        },
+        {
+          "word": "Fervor",
+          "definition": "intense and passionate feeling",
+          "sentence": "At the protest, the students cheered the strikers with fervor."
+        },
+        {
+          "word": "Banal",
+          "definition": "so lacking in originality as to be obvious and boring",
+          "sentence": "The hack writer's worn-out clich's made his book seem banal."
+        }
+      ]
+    },
+    {
+      "weekNumber": 24,
+      "words": [
+        {
+          "word": "Eloquence",
+          "definition": "fluent or persuasive speaking or writing",
+          "sentence": "Her eloquence in debates made her a popular speaker at the university."
+        },
+        {
+          "word": "Relegate",
+          "definition": "assign an inferior rank or position to",
+          "sentence": "After the financial scandal, the CEO was relegated to a lesser role within the company."
+        },
+        {
+          "word": "Desiccate",
+          "definition": "remove the moisture from (something); dry thoroughly",
+          "sentence": "He used a desiccant to desiccate the samples for long-term preservation."
+        },
+        {
+          "word": "Ponderous",
+          "definition": "slow and clumsy because of great weight",
+          "sentence": "The ponderous machinery moved with a loud clanking noise."
+        },
+        {
+          "word": "Apathy",
+          "definition": "lack of interest, enthusiasm, or concern",
+          "sentence": "The general apathy towards the election was a cause for concern."
+        },
+        {
+          "word": "Precocious",
+          "definition": "having developed certain abilities or proclivities at an earlier age than usual",
+          "sentence": "The precocious child was already reading Shakespeare at age seven."
+        }
+      ]
+    },
+    {
+      "weekNumber": 25,
+      "words": [
+        {
+          "word": "Piety",
+          "definition": "the quality of being religious or reverent",
+          "sentence": "The nuns were noted for their piety."
+        },
+        {
+          "word": "Abstract",
+          "definition": "existing in thought or as an idea but not having a physical or concrete existence",
+          "sentence": "To him, hunger was an abstract concept; he never missed a meal."
+        },
+        {
+          "word": "Profane",
+          "definition": "to treat (something sacred) with abuse, irreverence, or contempt",
+          "sentence": "Tourists are urged not to profane the sanctity of holy places by wearing improper garb."
+        },
+        {
+          "word": "Prevalent",
+          "definition": "widespread in a particular area or at a particular time",
+          "sentence": "Reed had no patience with the views prevalent in America of his day."
+        },
+        {
+          "word": "Trepidation",
+          "definition": "a feeling of fear or agitation about something that might happen",
+          "sentence": "As she entered the office of the dean, Sharon felt some trepidation about how much trouble she was in."
+        },
+        {
+          "word": "Haughtiness",
+          "definition": "the appearance or quality of being arrogantly superior and disdainful",
+          "sentence": "I resent his haughtiness because he is no better than we are."
+        }
+      ]
+    },
+    {
+      "weekNumber": 26,
+      "words": [
+        {
+          "word": "innovative",
+          "definition": "introducing new ideas",
+          "sentence": "Her innovative design won first prize."
+        },
+        {
+          "word": "jubilant",
+          "definition": "feeling great happiness",
+          "sentence": "The jubilant team celebrated their victory."
+        },
+        {
+          "word": "kinship",
+          "definition": "family relationship or connection",
+          "sentence": "They felt a strong kinship after working together."
+        },
+        {
+          "word": "luminous",
+          "definition": "bright or shining",
+          "sentence": "The luminous moon lit up the night sky."
+        },
+        {
+          "word": "fortitude",
+          "definition": "courage in facing difficulty",
+          "sentence": "He showed great fortitude during his recovery."
+        },
+        {
+          "word": "noble",
+          "definition": "having high moral qualities",
+          "sentence": "Her noble actions inspired others."
+        }
+      ]
+    },
+    {
+      "weekNumber": 27,
+      "words": [
+        {
           "word": "benevolent",
           "definition": "kind and generous",
           "sentence": "The benevolent donor gave to many charities."
@@ -36,37 +947,107 @@
       ]
     },
     {
-      "weekNumber": 2,
+      "weekNumber": 28,
       "words": [
         {
-          "word": "innovative",
-          "definition": "introducing new ideas",
-          "sentence": "Her innovative design won first prize."
+          "word": "implication",
+          "definition": "something suggested or indirectly expressed",
+          "sentence": "When Miss Watson said she hadn't seen her purse since the last time Jim was in the house, the implication was that she suspected Jim."
         },
         {
-          "word": "jubilant",
-          "definition": "feeling great happiness",
-          "sentence": "The jubilant team celebrated their victory."
+          "word": "nullify",
+          "definition": "make legally void or invalid",
+          "sentence": "Once the contract was nullified, it no longer had any legal force."
         },
         {
-          "word": "kinship",
-          "definition": "family relationship or connection",
-          "sentence": "They felt a strong kinship after working together."
+          "word": "morose",
+          "definition": "gloomily or sullenly ill-humored",
+          "sentence": "Forced to take early retirement, Jill acted morose for months."
         },
         {
-          "word": "luminous",
-          "definition": "bright or shining",
-          "sentence": "The luminous moon lit up the night sky."
+          "word": "redundant",
+          "definition": "exceeding what is necessary or normal",
+          "sentence": "Saying 'we collaborated together' is a redundant phrase. If you collaborated then you obviously worked together."
         },
         {
-          "word": "meticulous",
-          "definition": "showing great attention to detail",
-          "sentence": "His meticulous work impressed his boss."
+          "word": "satirical",
+          "definition": "using wit or sarcasm to criticize",
+          "sentence": "The humor of cartoonist Gary Trudeau is often satirical."
         },
         {
-          "word": "noble",
-          "definition": "having high moral qualities",
-          "sentence": "Her noble actions inspired others."
+          "word": "turbulence",
+          "definition": "violent or unsteady movement",
+          "sentence": "The year 2024 will be a year filled with turbulence."
+        }
+      ]
+    },
+    {
+      "weekNumber": 29,
+      "words": [
+        {
+          "word": "notoriety",
+          "definition": "the state of being famous for something bad",
+          "sentence": "If the singer couldn't have a good reputation, he would settle for notoriety."
+        },
+        {
+          "word": "ostentatious",
+          "definition": "displaying wealth or importance in a showy way",
+          "sentence": "The casino in Atlantic City is the most ostentatious gambling palace in the world."
+        },
+        {
+          "word": "perfunctory",
+          "definition": "done without care or interest, purely for form",
+          "sentence": "The auditor's perfunctory inspection of the books overlooked many errors."
+        },
+        {
+          "word": "hypocritical",
+          "definition": "pretending to have qualities or beliefs that you do not have",
+          "sentence": "Believing Eddie to be interested only in his own advancement, Greg resented his hypocritical posing as a friend."
+        },
+        {
+          "word": "hackneyed",
+          "definition": "lacking originality; overused",
+          "sentence": "When the reviewer criticized the movie for its hackneyed plot, all agreed we had seen similar movies."
+        },
+        {
+          "word": "hedonist",
+          "definition": "person devoted to pleasure",
+          "sentence": "As a hedonist, she refused to do anything that required hard work."
+        }
+      ]
+    },
+    {
+      "weekNumber": 30,
+      "words": [
+        {
+          "word": "hypothetical",
+          "definition": "based on assumptions rather than facts",
+          "sentence": "Why do we have to consider hypothetical cases when we have actual case histories to examine?"
+        },
+        {
+          "word": "heresy",
+          "definition": "opinion contrary to accepted belief",
+          "sentence": "He was threatened with excommunication because his remarks were considered heresy."
+        },
+        {
+          "word": "frivolous",
+          "definition": "lacking seriousness; not having any serious purpose",
+          "sentence": "Though Nancy enjoyed Bill's frivolous companionship, she sometimes wondered if he could be serious."
+        },
+        {
+          "word": "fallacious",
+          "definition": "based on a mistaken belief",
+          "sentence": "Your reasoning must be fallacious because it leads to a ridiculous answer."
+        },
+        {
+          "word": "daunt",
+          "definition": "to make someone feel intimidated or apprehensive",
+          "sentence": "Boast all you like, but you cannot daunt me."
+        },
+        {
+          "word": "servile",
+          "definition": "having or showing excessive willingness to serve or please",
+          "sentence": "Constantly fawning on his employer, Uriah Heep was a servile individual."
         }
       ]
     }

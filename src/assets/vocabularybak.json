@@ -1,0 +1,74 @@
+{
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "words": [
+        {
+          "word": "benevolent",
+          "definition": "kind and generous",
+          "sentence": "The benevolent donor gave to many charities."
+        },
+        {
+          "word": "diligent",
+          "definition": "showing care and effort in work",
+          "sentence": "Her diligent studying paid off with high grades."
+        },
+        {
+          "word": "eloquent",
+          "definition": "fluent and persuasive in speaking",
+          "sentence": "The eloquent speech moved the entire audience."
+        },
+        {
+          "word": "fortitude",
+          "definition": "courage in facing difficulty",
+          "sentence": "He showed great fortitude during his recovery."
+        },
+        {
+          "word": "gratitude",
+          "definition": "feeling of thankfulness",
+          "sentence": "She expressed gratitude for their help."
+        },
+        {
+          "word": "humble",
+          "definition": "modest and unpretentious",
+          "sentence": "Despite his success, he remained humble."
+        }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "words": [
+        {
+          "word": "innovative",
+          "definition": "introducing new ideas",
+          "sentence": "Her innovative design won first prize."
+        },
+        {
+          "word": "jubilant",
+          "definition": "feeling great happiness",
+          "sentence": "The jubilant team celebrated their victory."
+        },
+        {
+          "word": "kinship",
+          "definition": "family relationship or connection",
+          "sentence": "They felt a strong kinship after working together."
+        },
+        {
+          "word": "luminous",
+          "definition": "bright or shining",
+          "sentence": "The luminous moon lit up the night sky."
+        },
+        {
+          "word": "meticulous",
+          "definition": "showing great attention to detail",
+          "sentence": "His meticulous work impressed his boss."
+        },
+        {
+          "word": "noble",
+          "definition": "having high moral qualities",
+          "sentence": "Her noble actions inspired others."
+        }
+      ]
+    }
+  ]
+}
