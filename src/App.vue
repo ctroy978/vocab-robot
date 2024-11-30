@@ -31,9 +31,15 @@
     </section>
 
     <!-- vocab test -->
-
-    <section v-if="currentView === 'test'">
-      <div>test</div>
+    <section v-if="currentView === 'test'" class="px-4">
+      <VocabTest
+        :current-week="currentWeek"
+        :all-words="
+          vocabData.weeks.flatMap((week) =>
+            week.words.map((word) => ({ ...word, week: week.weekNumber }))
+          )
+        "
+      />
     </section>
   </main>
 </template>
@@ -43,7 +49,8 @@ import { ref, computed, onMounted } from "vue";
 import NavBar from "@/components/NavBar.vue";
 import WordCard from "@/components/WordCard.vue";
 import PresentCard from "@/components/PresentCard.vue";
-import FlashCard from "@/components/flashCard.vue";
+import FlashCard from "@/components/FlashCard.vue";
+import VocabTest from "@/components/VocabTest.vue";
 
 //const vocabData = await import("@/assets/vocabulary.json");
 let vocabData = ref(null);
