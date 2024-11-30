@@ -149,7 +149,7 @@ const submitTest = async () => {
     const prompt = `You are grading a vocabulary test. Each correct definition is worth 1 point.
       A student's definition is correct if it shows a basic understanding of the word's meaning.
       They don't need to match exactly - just demonstrate comprehension of the core concept.
-  
+
       Here are the word pairs to evaluate:
       ${wordPairs
         .map(
@@ -160,11 +160,11 @@ const submitTest = async () => {
       `
         )
         .join("\n")}
-  
+
       Please evaluate all definitions and provide:
-      1. A total score out of ${wordPairs.length} points
-      2. Brief, encouraging feedback about the student's overall performance
-      3. Any specific words they should review if needed`;
+      1. ALWAYS begin with a total score out of ${wordPairs.length} points
+      2. A simple list of the words with incorrect definitions
+      3. Brief, encouraging feedback about the student's overall performance`;
 
     const response = await fetch("http://192.168.254.32:8000/chat/llama3", {
       method: "POST",
