@@ -166,14 +166,17 @@ const submitTest = async () => {
       2. A simple list of the words with incorrect definitions
       3. Brief, encouraging feedback about the student's overall performance`;
 
-    const response = await fetch("http://192.168.254.32:8000/chat/llama3", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        model: "llama3",
-        prompt,
-      }),
-    });
+    const response = await fetch(
+      `${import.meta.env.VITE_API_BASE_URL}/chat/llama3`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          model: "llama3",
+          prompt,
+        }),
+      }
+    );
 
     const result = await response.json();
     testFeedback.value = result.data.response;
