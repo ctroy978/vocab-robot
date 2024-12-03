@@ -40,6 +40,7 @@
               <textarea
                 :id="'definition-' + index"
                 v-model="userDefinitions[index]"
+                maxlength="200"
                 class="w-full p-2 border rounded-md"
                 :disabled="testSubmitted"
                 rows="2"

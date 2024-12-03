@@ -8,6 +8,7 @@
       <div class="p-4 space-y-4">
         <textarea
           v-model="userDefinition"
+          maxlength="200"
           class="w-full p-2 border rounded-md"
           placeholder="Type the definition..."
           :disabled="isChecking"

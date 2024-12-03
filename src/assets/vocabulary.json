@@ -354,34 +354,34 @@
       "weekNumber": 11,
       "words": [
         {
-          "word": "Eulogy",
-          "definition": "a speech or piece of writing that praises someone or something highly, typically someone who has just died",
-          "sentence": "At the memorial, his brother gave a heartfelt eulogy."
+          "word": "Opaque",
+          "definition": "Dark; not transparent.",
+          "sentence": "The opaque window shade kept the sunlight out of the room."
         },
         {
-          "word": "Compliance",
-          "definition": "the act or process of doing what you have been asked or ordered to do",
-          "sentence": "The company was fined for non-compliance with safety regulations."
+          "word": "Scrupulous",
+          "definition": "Conscientious; extremely thorough",
+          "sentence": "Alfred is scrupulous about every detail. His home is spotless."
         },
         {
-          "word": "Fanaticism",
-          "definition": "excessive, irrational zeal",
-          "sentence": "His fanaticism for the cause made him overlook practical considerations."
+          "word": "Implicit",
+          "definition": "Understood but not stated",
+          "sentence": "Jack never told Jill he loved her; He believed his love was implicit in his actions."
         },
         {
-          "word": "Disdain",
-          "definition": "the feeling that someone or something is unworthy of one's consideration or respect",
-          "sentence": "She looked at the cheap imitation with disdain."
+          "word": "Engender",
+          "definition": "Cause; produce",
+          "sentence": "To receive praise for real accomplishment engenders self-confidence in a child."
         },
         {
-          "word": "Philanthropist",
-          "definition": "a person who seeks to promote the welfare of others, especially by the generous donation of money to good causes",
-          "sentence": "The philanthropist donated a significant sum to rebuild the local school."
+          "word": "Equivocal",
+          "definition": "Ambiguous; intentionally misleading",
+          "sentence": "Rejecting the candidate's equivocal remarks, the blogger pressed him to state clearly where he stood on the issues."
         },
         {
-          "word": "Deterrent",
-          "definition": "a thing that discourages or is intended to discourage someone from doing something",
-          "sentence": "The high fines were meant to act as a deterrent to littering."
+          "word": "Ascendancy",
+          "definition": "Controlling influence; domination",
+          "sentence": "Leaders of cults maintain ascendancy over their followers by methods that can verge on brainwashing."
         }
       ]
     },
@@ -390,12 +390,12 @@
       "words": [
         {
           "word": "Apathy",
-          "definition": "Some teachers consider student apathy to be the number one problem with schools.",
+          "definition": "a lack of feeling, emotion, interest, or concern about something",
           "sentence": "Student apathy towards education has become a significant concern for educators."
         },
         {
           "word": "Deprecate",
-          "definition": "A firm believer in old-fashioned courtesy, Miss Post deprecated the modern tendency to address new acquaintances by their first names.",
+          "definition": "Express disapproval",
           "sentence": "Miss Post deprecated the casualness of addressing elders by their first names, favoring traditional etiquette."
         },
         {
@@ -435,12 +435,12 @@
         },
         {
           "word": "Explicit",
-          "definition": "Don't just hint around that you're dissatisfied. Be explicit about what's bothering you.",
+          "definition": "Specific, Clear",
           "sentence": "During the meeting, he was explicit about his dissatisfaction with the project's progress."
         },
         {
           "word": "Cajole",
-          "definition": "Diane tried to cajole her father into letting her have the car tonight.",
+          "definition": "persuade (someone) to do something",
           "sentence": "Diane attempted to cajole her father into lending her the car for the evening with promises of good behavior."
         },
         {
@@ -584,14 +584,14 @@
           "sentence": "The financial crisis was partly due to the collapse of the subprime mortgage market."
         },
         {
-          "word": "Photosynthesis",
-          "definition": "the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
-          "sentence": "Photosynthesis is crucial for the survival of plants and the production of oxygen."
+          "word": "gerrymandering",
+          "definition": "The manipulation of electoral district boundaries to favor one political party or group over others.",
+          "sentence": "Critics argue that the redistricting process in the state was blatant gerrymandering to ensure the ruling party's continued dominance."
         },
         {
-          "word": "Regulatory",
-          "definition": "relating to or having the function of regulation",
-          "sentence": "The new regulatory measures aim to ensure fair competition in the market."
+          "word": "filibuster",
+          "definition": "A parliamentary tactic in which a member of a legislative body extends debate, especially by giving long speeches, to delay or prevent action on a bill.",
+          "sentence": "The senator threatened to use a filibuster to block the passage of the controversial healthcare reform bill."
         }
       ]
     },
@@ -636,7 +636,7 @@
       "words": [
         {
           "word": "Quantum Mechanics",
-          "definition": "the branch of mechanics that deals with the mathematical description of the motion and interaction of subatomic particles",
+          "definition": "the branch of physics that deals with the mathematical description of the motion and interaction of subatomic particles",
           "sentence": "Quantum mechanics has led to advancements in computing, communication, and imaging technologies."
         },
         {
@@ -671,7 +671,7 @@
       "words": [
         {
           "word": "Affirmation",
-          "definition": "Lack of parental affirmation can harm a child's emotional development.",
+          "definition": "emotional support or encouragement",
           "sentence": "The lack of affirmation from her parents left her feeling unvalued throughout her childhood."
         },
         {
@@ -691,12 +691,12 @@
         },
         {
           "word": "Fervor",
-          "definition": "At the protest, the students cheered the strikers with fervor.",
+          "definition": "intense and passionate feeling",
           "sentence": "The crowd at the rally expressed their support for the workers with great fervor."
         },
         {
           "word": "Banal",
-          "definition": "The hack writer's worn-out cliches made his book seem banal.",
+          "definition": "so lacking in originality as to be obvious and boring",
           "sentence": "His attempt at poetry was dismissed as banal due to the overuse of tired metaphors."
         }
       ]
@@ -706,32 +706,32 @@
       "words": [
         {
           "word": "Disparity",
-          "definition": "Their disparity in rank made no difference to the prince and Cinderella.",
+          "definition": "a difference in level or treatment",
           "sentence": "Despite their social disparity, the prince and Cinderella found common ground in their kindness."
         },
         {
           "word": "Terse",
-          "definition": "There is a fine line between speech that is terse and to the point, and speech that is too abrupt.",
+          "definition": "sparing in the use of words",
           "sentence": "His response was terse, yet it conveyed everything he needed to say without any fluff."
         },
         {
           "word": "Superfluous",
-          "definition": "Betsy lacked the heart to tell June that the wedding present was superfluous; they had already received five toasters.",
+          "definition": "More than you need",
           "sentence": "Betsy couldn't bring herself to mention that June's gift of another toaster was superfluous."
         },
         {
           "word": "Lampoon",
-          "definition": "This article lampoons the pretensions of some movie actors.",
+          "definition": "Make fun of something",
           "sentence": "The editorial humorously lampooned the exaggerated lifestyle of Hollywood celebrities."
         },
         {
           "word": "Resplendent",
-          "definition": "All the people commented how glorious the emperor looked in his resplendent new clothes.",
+          "definition": "attractive and impressive through being richly colorful",
           "sentence": "The emperor appeared resplendent at the parade, his attire shimmering in the sunlight."
         },
         {
           "word": "Reprehensible",
-          "definition": "Shocked by the viciousness of the bombing, politicians condemned the terrorists' reprehensible deed.",
+          "definition": "Something so horrible it deserves condemnation",
           "sentence": "Politicians across the spectrum condemned the act as reprehensible, calling for justice."
         }
       ]
@@ -741,12 +741,12 @@
       "words": [
         {
           "word": "Indolent",
-          "definition": "Couch potatoes lead an indolent life.",
+          "definition": "wanting to avoid activity or exertion; lazy",
           "sentence": "His indolent lifestyle was evident from his reluctance to do any form of physical activity."
         },
         {
           "word": "Gravity",
-          "definition": "We could tell we were in serious trouble from the gravity of the principal's expression.",
+          "definition": "seriousness",
           "sentence": "The gravity of the situation was clear when the principal's face turned stern."
         },
         {
@@ -761,12 +761,12 @@
         },
         {
           "word": "Debilitate",
-          "definition": "Jim's severe bout of the flu debilitated him so much he couldn't go to school.",
+          "definition": "make someone weak or infirm",
           "sentence": "The flu had debilitated Jim so severely that he missed a week of school."
         },
         {
           "word": "Arbitrary",
-          "definition": "Tom's arbitrary dismissal angered him; his boss had no reason to fire him.",
+          "definition": "based on random choice",
           "sentence": "Tom was outraged by his arbitrary dismissal from work, as there was no apparent reason for his firing."
         }
       ]
