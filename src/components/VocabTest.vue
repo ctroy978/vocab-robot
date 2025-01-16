@@ -114,8 +114,8 @@ const generateTestWords = () => {
     (word) => word.week < props.currentWeek
   );
 
-  // Randomly select 4-10 words from previous weeks
-  const numReviewWords = Math.floor(Math.random() * 7) + 4;
+  // Randomly select 4-10 words from previous weeks  CHANGED TO 10
+  const numReviewWords = 10; //Math.floor(Math.random() * 7) + 4;
   const shuffledPreviousWords = [...previousWords].sort(
     () => Math.random() - 0.5
   );
@@ -168,7 +168,7 @@ const submitTest = async () => {
       3. Brief, encouraging feedback about the student's overall performance`;
 
     const response = await fetch(
-      `${import.meta.env.VITE_API_BASE_URL}/chat/llama3`,
+      `${import.meta.env.VITE_API_BASE_URL}/vocab/chat/llama3`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -180,7 +180,7 @@ const submitTest = async () => {
     );
 
     const result = await response.json();
-    testFeedback.value = result.data.response;
+    testFeedback.value = result.data.data;
   } catch (error) {
     console.error("Error evaluating test:", error);
     testFeedback.value =

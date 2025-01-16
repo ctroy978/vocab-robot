@@ -88,7 +88,7 @@ const checkDefinition = async () => {
     2. Brief explanation why`;
 
     const response = await fetch(
-      `${import.meta.env.VITE_API_BASE_URL}/chat/llama3`,
+      `${import.meta.env.VITE_API_BASE_URL}/vocab/chat/llama3`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -100,8 +100,8 @@ const checkDefinition = async () => {
     );
 
     const result = await response.json();
-    feedback.value = result.data.response;
-    feedbackColor.value = result.data.response.toLowerCase().includes("yes")
+    feedback.value = result.data.data;
+    feedbackColor.value = result.data.data.toLowerCase().includes("yes")
       ? "bg-green-100"
       : "bg-red-100";
   } catch (error) {
